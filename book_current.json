@@ -1,0 +1,19 @@
+{
+  "title": "移动端APP开发总结",
+  "description": "总结移动端APP开发相关的技术和心得",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "mobiel_app_summary"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/mobiel_app_summary/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/mobiel_app_summary/pdf/mobiel_app_summary.pdf"
+    }
+  }
+}
