@@ -13,7 +13,7 @@
 
 ### Gitook源码
 
-* [crifan/mobiel_app_summary: 移动端APP开发总结](https://github.com/crifan/mobiel_app_summary)
+* [crifan/mobile_app_summary: 移动端APP开发总结](https://github.com/crifan/mobile_app_summary)
 
 #### 如何使用此Gitbook源码去生成发布为电子书
 
@@ -21,11 +21,11 @@
 
 ### 在线浏览
 
-* [移动端APP开发总结 book.crifan.com](http://book.crifan.com/books/mobiel_app_summary/website)
-* [移动端APP开发总结 crifan.github.io](https://crifan.github.io/mobiel_app_summary/website)
+* [移动端APP开发总结 book.crifan.com](http://book.crifan.com/books/mobile_app_summary/website)
+* [移动端APP开发总结 crifan.github.io](https://crifan.github.io/mobile_app_summary/website)
 
 ### 离线下载阅读
 
-* [移动端APP开发总结 PDF](http://book.crifan.com/books/mobiel_app_summary/pdf/mobiel_app_summary.pdf)
-* [移动端APP开发总结 ePub](http://book.crifan.com/books/mobiel_app_summary/epub/mobiel_app_summary.epub)
-* [移动端APP开发总结 Mobi](http://book.crifan.com/books/mobiel_app_summary/mobi/mobiel_app_summary.mobi)
+* [移动端APP开发总结 PDF](http://book.crifan.com/books/mobile_app_summary/pdf/mobile_app_summary.pdf)
+* [移动端APP开发总结 ePub](http://book.crifan.com/books/mobile_app_summary/epub/mobile_app_summary.epub)
+* [移动端APP开发总结 Mobi](http://book.crifan.com/books/mobile_app_summary/mobi/mobile_app_summary.mobi)
